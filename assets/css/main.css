@@ -1677,6 +1677,10 @@
 			#content header {
 				margin: 0 0 1.25em 0;
 			}
+			#content img {
+				max-width: 100%;
+				height: auto;
+			}
 
 		/* Footer */
 
