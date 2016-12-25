@@ -1314,15 +1314,18 @@
 					position: absolute;
 					left: 0;
 					bottom: 35px;
-					font-size: 2.75em;
+					font-size: 2.25em;
 					display: inline-block;
+					color: grey;
+					font-style: italic;
 				}
 
 					#header h1 a {
 						color: #fff;
 						text-decoration: none;
+						font-size: 2.75em;
 					}
-
+				}
 				#header nav {
 					position: absolute;
 					right: 0;
