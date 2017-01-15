@@ -1541,6 +1541,8 @@
 
 			html, body {
 				overflow-x: hidden;
+				color: red;
+				text-decoration: none;
 			}
 
 			body, input, textarea, select {
