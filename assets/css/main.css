@@ -1541,14 +1541,16 @@
 
 			html, body {
 				overflow-x: hidden;
-				color: red;
-				text-decoration: none;
 			}
 
 			body, input, textarea, select {
 				font-size: 13pt;
 				line-height: 1.4em;
 			}
+			a {
+				color: red;
+				text-decoration: none;
+	`		};
 
 		/* Multi-use */
 
